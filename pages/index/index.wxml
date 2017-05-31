@@ -1,0 +1,6 @@
+<view class="map_container"> 
+  <map class="map" id="map" longitude="{{longitude}}" latitude="{{latitude}}" scale="16" show-location="true"></map> 
+</view> 
+<view class="adress"> 
+  <text>所在：{{address}}\n</text> 
+</view>
